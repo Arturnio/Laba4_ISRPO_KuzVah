@@ -1,0 +1,15 @@
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\bin\Debug\net9.0\server.exe
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\bin\Debug\net9.0\server.deps.json
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\bin\Debug\net9.0\server.runtimeconfig.json
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\bin\Debug\net9.0\server.dll
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\bin\Debug\net9.0\server.pdb
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\server.AssemblyInfoInputs.cache
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\server.AssemblyInfo.cs
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\server.csproj.CoreCompileInputs.cache
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\server.sourcelink.json
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\server.dll
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\refint\server.dll
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\server.pdb
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\server.genruntimeconfig.cache
+C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\ref\server.dll
