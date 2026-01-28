@@ -13,3 +13,18 @@ C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\re
 C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\server.pdb
 C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\server.genruntimeconfig.cache
 C:\Работы студентов\laba4_ISRPO_KUZVAH\server\obj\Debug\net9.0\ref\server.dll
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\bin\Debug\net9.0\server.exe
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\bin\Debug\net9.0\server.deps.json
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\bin\Debug\net9.0\server.runtimeconfig.json
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\bin\Debug\net9.0\server.dll
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\bin\Debug\net9.0\server.pdb
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\obj\Debug\net9.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\obj\Debug\net9.0\server.AssemblyInfoInputs.cache
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\obj\Debug\net9.0\server.AssemblyInfo.cs
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\obj\Debug\net9.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\obj\Debug\net9.0\server.sourcelink.json
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\obj\Debug\net9.0\server.dll
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\obj\Debug\net9.0\refint\server.dll
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\obj\Debug\net9.0\server.pdb
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\obj\Debug\net9.0\server.genruntimeconfig.cache
+C:\Users\Artur\ISRPO\Laba4_ISRPO_KuzVah\server\obj\Debug\net9.0\ref\server.dll
